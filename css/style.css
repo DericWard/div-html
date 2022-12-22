@@ -1,0 +1,7 @@
+div {
+    color: red; /* text/font color */
+    border: 3px solid blue;
+    background-color: aquamarine;
+    margin: 10px; /* space around this div */
+}
+
